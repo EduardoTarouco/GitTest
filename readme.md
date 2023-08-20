@@ -18,3 +18,5 @@ Este projeto foi criado utilizando as linguagens de programação **HTML 5** e *
 
 #
 *criado por @EduardoTarouco*
+
+### Feito com a intenção de estudar os comandos git
